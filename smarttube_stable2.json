@@ -1,0 +1,15 @@
+{
+    "package" : {
+        "downloadUrlList" : [
+            "https://github.com/didichek-ux/SmartTube-FrameMod/releases/download/Update/SmartTube.30.98.frame.mod_src.apk"],
+        "downloadUrlList_arm64-v8a" : [
+            "https://github.com/didichek-ux/SmartTube-FrameMod/releases/download/Update/SmartTube.30.98.frame.mod_src.apk"],
+        "downloadUrlList_x86" : [
+            "https://github.com/didichek-ux/SmartTube-FrameMod/releases/download/Update/SmartTube.30.98.frame.mod_src.apk"]
+    },
+    "30.98" : {
+        "versionCode" : 2288,
+        "changelog" : [
+            "Частично изменены иконки в настройках и разделах, Прозрачность рамки понижена."]
+    }
+}
